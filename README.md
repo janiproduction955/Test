@@ -1,2 +1,2 @@
 # Test
-This project is used for web application
+This project is used for web applications
